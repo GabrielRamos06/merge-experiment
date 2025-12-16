@@ -1,1 +1,1 @@
-Proyecto 2 - Cambios realizados desde la rama B
+Proyecto 2 - Cambios integrados desde las ramas A y B
